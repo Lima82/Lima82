@@ -1,4 +1,4 @@
-![Header](https://github.com/Lima82/Lima82/blob/main/header.png)
+![Header](https://github.com/Lima82/Lima82/blob/Practicum/header.png)
 
 ### About Me
 I'm a junior data analyst.
