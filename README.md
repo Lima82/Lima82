@@ -22,4 +22,4 @@ It seems really exiting to me.
 ![Tableau](https://img.shields.io/badge/-Tableau-69b5cc?style=for-the-badge&logo=tableau)
 
 ### Certificates
-![Certificate](./Lima82/CS50P_certificate.png)
+![Certificate](https://github.com/Lima82/Lima82/blob/Practicum/CS50P_certificate.png)
