@@ -19,6 +19,7 @@ It seems really exiting to me.
 ![Python](https://img.shields.io/badge/-Python-69b5cc?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/-PostgreSQL-69b5cc?style=for-the-badge&logo=postgreSQL)
 ![JupiterNotebook](https://img.shields.io/badge/-Jupyter-69b5cc?style=for-the-badge&logo=jupyter)
+![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-69b5cc?style=for-the-badge&logo=VisualStudioCode)
 ![Tableau](https://img.shields.io/badge/-Tableau-69b5cc?style=for-the-badge&logo=tableau)
 
 ### Certificates
