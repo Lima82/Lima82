@@ -24,4 +24,4 @@ It seems really exiting to me.
 
 ### Certificates
 ![Certificate](https://github.com/Lima82/Lima82/blob/Practicum/CS50P_certificate.png)
-![Certificate](https://github.com/Lima82/Lima82/blob/Practicum/Yandex_Practicum_certificate.png)
+![Certificate](https://github.com/Lima82/Lima82/blob/Practicum/Yandex_Practicum_certificate.pdf)
