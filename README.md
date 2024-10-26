@@ -21,9 +21,9 @@ It seems really exiting to me.
 ![SQL](https://img.shields.io/badge/-PostgreSQL-69b5cc?style=for-the-badge&logo=postgreSQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-69b5cc?style=for-the-badge&logo=SQLite)
 ![JupiterNotebook](https://img.shields.io/badge/-Jupyter-69b5cc?style=for-the-badge&logo=jupyter)
-![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-69b5cc?style=for-the-badge&logo=VisualStudioCode)
+![VSCode](https://img.shields.io/badge/-VSCode-69b5cc?style=for-the-badge&logo=VSCode)
 ![Tableau](https://img.shields.io/badge/-Tableau-69b5cc?style=for-the-badge&logo=tableau)
-![DataLens](https://img.shields.io/badge/-DataLens-69b5cc?style=for-the-badge&logo=datalens)
+![YandexDataLens](https://img.shields.io/badge/-YandexDataLens-69b5cc?style=for-the-badge&logo=YandexDataLens)
 
 ### Certificates
 ![Certificate](https://github.com/Lima82/Lima82/blob/Practicum/CS50P_certificate.png)
