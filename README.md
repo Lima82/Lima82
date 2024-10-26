@@ -26,4 +26,3 @@ It seems really exiting to me.
 ### Certificates
 ![Certificate](https://github.com/Lima82/Lima82/blob/Practicum/CS50P_certificate.png)
 ![Certificate](https://github.com/Lima82/Lima82/blob/Practicum/Yandex_Practicum_certificate.png)
-![Certisicate](https://courses.edx.org/certificates/c34e2703fd0a4bfb90e58a7ac05f71ea?_gl=1*q5xvzf*_gcl_au*MTA3MzM0ODI2OS4xNzI5OTU4MjE0*_ga*MTExMzI2MjQyMS4xNzI5OTU4MjE0*_ga_D3KS4KMDT0*MTcyOTk1ODIxNC4xLjEuMTcyOTk2MDUwMC40Ni4wLjA.)
