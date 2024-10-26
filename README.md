@@ -21,10 +21,11 @@ It seems really exiting to me.
 ![SQL](https://img.shields.io/badge/-PostgreSQL-69b5cc?style=for-the-badge&logo=postgreSQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-69b5cc?style=for-the-badge&logo=SQLite)
 ![JupiterNotebook](https://img.shields.io/badge/-Jupyter-69b5cc?style=for-the-badge&logo=jupyter)
-![VSCode](https://img.shields.io/badge/-VSCode-69b5cc?style=for-the-badge&logo=VSCode)
+![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-69b5cc?style=for-the-badge&logo=VisualStudioCode)
 ![Tableau](https://img.shields.io/badge/-Tableau-69b5cc?style=for-the-badge&logo=tableau)
-![YandexDataLens](https://img.shields.io/badge/-YandexDataLens-69b5cc?style=for-the-badge&logo=YandexDataLens)
+![DataLens](https://img.shields.io/badge/-DataLens-69b5cc?style=for-the-badge&logo=DataLens)
 
 ### Certificates
 ![Certificate](https://github.com/Lima82/Lima82/blob/Practicum/CS50P_certificate.png)
+[![edX](https://img.shields.io/badge/-edX-69b5cc?style=for-the-badge&logo=edX)](https://courses.edx.org/certificates/c34e2703fd0a4bfb90e58a7ac05f71ea/)
 ![Certificate](https://github.com/Lima82/Lima82/blob/Practicum/Yandex_Practicum_certificate.png)
