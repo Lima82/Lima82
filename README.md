@@ -14,6 +14,7 @@ It seems really exiting to me.
 [![Gmail](https://img.shields.io/badge/-mail-69b5cc?style=for-the-badge&logo=Gmail)](mailto:marina.a.orlenko@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-69b5cc?style=for-the-badge&logo=Telegram)](https://t.me/lma82)
 [![Linkdin](https://img.shields.io/badge/-Linkedin-69b5cc?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/marina-orlenko-8572261/)
+[![Youtube](https://img.shields.io/badge/-Youtube-69b5cc?style=for-the-badge&logo=Youtube)](https://www.youtube.com/watch?v=C7LvGN34AjU/)
 
 ### Languages & Tools 
 ![Python](https://img.shields.io/badge/-Python-69b5cc?style=for-the-badge&logo=python)
