@@ -1,4 +1,4 @@
-## Hi, there! I'am Marina Orlenko - a junior data analyst 👋
+## Hi, there! I'am Marina Orlenko - a data analyst 👋
 
 ### About Me
 
