@@ -6,7 +6,7 @@ I have a background as an HR manager in IT, where I worked with a lot of data re
 
 Recently, I completed several courses in data analysis, Python, and SQL, which helped me summarize and enhance my knowledge in this field.
 
-Currently I'm looking for the opportunities to further develop my career as a data analyst and contribute to innovative projects in the realm of big data.
+Currently I'm looking for opportunities to further develop my career as a data analyst and contribute to innovative projects in the realm of big data.
 
 ### Follow Me 
 [![Gmail](https://img.shields.io/badge/-mail-69b5cc?style=for-the-badge&logo=Gmail)](mailto:marina.a.orlenko@gmail.com)
