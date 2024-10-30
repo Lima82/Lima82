@@ -2,13 +2,11 @@
 
 ### About Me
 
-Former HR manager in IT, I worked with a large amount of data, analysing it in the field of human resources management.
+I have a background as an HR manager in IT, where I worked with a lot of data related to human resources. I have a solid understanding of HR analytics and have developed strong skills in data analysis as proficient analyst with a deep understanding of data-driven methodologies.
 
-During the last year I've been taking a course of Data Analysis at Yandex.Practicum where I summarised and improved my knowledge in data analysis as well as gained all the required skills for a new role.
+Recently, I completed several courses in data analysis, Python, and SQL, which helped me summarize and enhance my knowledge in this field.
 
-Currently I'm looking for an opportunity to work with big data.
-
-It seems really exiting to me.
+Currently I'm looking for the opportunities to further develop my career as a data analyst and contribute to innovative projects in the realm of big data.
 
 ### Follow Me 
 [![Gmail](https://img.shields.io/badge/-mail-69b5cc?style=for-the-badge&logo=Gmail)](mailto:marina.a.orlenko@gmail.com)
