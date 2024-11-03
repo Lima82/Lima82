@@ -28,3 +28,4 @@ Currently I'm looking for opportunities to further develop my career as a data a
 [![Certificate](https://img.shields.io/badge/-CS50P_Verified_Certificate-69b5cc?style=for-the-badge&logo=CS50P_Verified_Certificate)](https://courses.edx.org/certificates/c34e2703fd0a4bfb90e58a7ac05f71ea?_gl=1*q5xvzf*_gcl_au*MTA3MzM0ODI2OS4xNzI5OTU4MjE0*_ga*MTExMzI2MjQyMS4xNzI5OTU4MjE0*_ga_D3KS4KMDT0*MTcyOTk1ODIxNC4xLjEuMTcyOTk2MDUwMC40Ni4wLjA./)
 ![Certificate](https://github.com/Lima82/Lima82/blob/Practicum/Yandex_Practicum_certificate.png)
 ![Certificate](https://github.com/Lima82/Lima82/blob/Practicum/Yandex_Practicum_modules_list.png)
+![Certificate](https://github.com/Lima82/Lima82/blob/Practicum/Сertificate_Orlenko_2024-9312-004.png)
