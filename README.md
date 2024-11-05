@@ -29,3 +29,4 @@ Currently I'm looking for opportunities to further develop my career as a data a
 ![Certificate](https://github.com/Lima82/Lima82/blob/Practicum/Yandex_Practicum_certificate.png)
 ![Certificate](https://github.com/Lima82/Lima82/blob/Practicum/Yandex_Practicum_modules_list.png)
 ![Certificate](https://github.com/Lima82/Lima82/blob/Practicum/СertificateSQL_Orlenko_2024-9312-004.png)
+![Certificate](https://github.com/Lima82/Lima82/blob/Practicum/Module_list_SQL_Orlenko_2024-9312-004.png)
