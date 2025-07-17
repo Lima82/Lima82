@@ -2,11 +2,13 @@
 
 ### About Me
 
-I have a background as an HR manager in IT, where I worked with a lot of data related to human resources. I have a solid understanding of HR analytics and have developed strong skills in data analysis as proficient analyst with a deep understanding of data-driven methodologies.
+I’m a data analyst with strong expertise in HR and IT. My journey started in recruitment and HR automation, where I discovered how data can power better decisions. That passion led me to retrain as a data analyst and dive deep into Python, SQL, Tableau, and more.
 
-Recently, I completed several courses in data analysis, Python, and SQL, which helped me summarize and enhance my knowledge in this field.
+Today, I use my analytical skills to bring clarity to complex problems - whether that’s customer behavior, operational performance, or product usage. I’ve worked on projects for non-profits, B2B services, healthcare, and other companies, delivering dashboards, ETL pipelines, and strategic insights.
 
-Currently I'm looking for opportunities to further develop my career as a data analyst and contribute to innovative projects in the realm of big data.
+What sets me apart? I combine data logic with a human-centered approach. My HR background helps me understand the people behind the numbers—and tell better stories with data.
+
+🔍 I’m open to data analyst roles (remote or hybrid) where I can contribute to smart teams solving real-world challenges.
 
 ### Follow Me 
 [![Gmail](https://img.shields.io/badge/-mail-69b5cc?style=for-the-badge&logo=Gmail)](mailto:marina.a.orlenko@gmail.com)
