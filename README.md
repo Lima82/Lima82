@@ -2,9 +2,9 @@
 
 ### About Me
 
-I’m a data analyst with strong expertise in HR and IT. My journey started in recruitment and HR automation, where I discovered how data can power better decisions. That passion led me to retrain as a data analyst and dive deep into Python, SQL, Tableau, and more.
+I’m a data analyst with extensive experience in HR and IT. My journey started in recruitment and HR automation, where I discovered how data can power better decisions. That passion led me to retrain as a data analyst and dive deep into Python, SQL, Tableau, and more.
 
-Today, I use my analytical skills to bring clarity to complex problems - whether that’s customer behavior, operational performance, or product usage. I’ve worked on projects for non-profits, B2B services, healthcare, and other companies, delivering dashboards, ETL pipelines, and strategic insights.
+Today, I use my analytical skills to bring clarity to complex problems - whether that’s customer behavior, operational performance, or product engagement. I’ve worked on projects for non-profits, B2B services, healthcare, and other companies, delivering dashboards, ETL pipelines, and strategic insights.
 
 What sets me apart? I combine data logic with a human-centered approach. My HR background helps me understand the people behind the numbers—and tell better stories with data.
 
